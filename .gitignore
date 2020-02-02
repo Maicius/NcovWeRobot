@@ -1,0 +1,14 @@
+*.idea
+*.log
+*.pkl
+*.pyc
+*.png
+*.jpg
+*.gif
+!resource/image/*
+sqlite.db
+*.DS_Store
+!cnocr-models-v1.0.0.zip
+resource/data/*
+build
+dist
